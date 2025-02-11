@@ -2,11 +2,11 @@ import Header from '../components/Header';
 import Card from '../components/Card';
 import Footer from '../components/Footer';
 import Carousel from '../components/Carousel';
-import one from "../photos/DSC08419.jpg";
-import two from "../photos/DSC08423.jpg";
-import three from "../photos/DSC08444.jpg";
-import four from "../photos/DSC08476.jpg";
-import five from "../photos/DSC08500.jpg";
+import one from "../photos/DSC08419.JPG";
+import two from "../photos/DSC08423.JPG";
+import three from "../photos/DSC08444.JPG";
+import four from "../photos/DSC08476.JPG";
+import five from "../photos/DSC08500.JPG";
 
 function App() {
   const cardData = [
