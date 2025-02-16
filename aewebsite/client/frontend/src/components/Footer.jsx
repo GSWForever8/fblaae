@@ -22,7 +22,7 @@ function Footer() {
                                         className="relative group inline-block transition-all duration-300 hover:translate-x-1"
                                     >
                                         <span className="relative z-10">{text}</span>
-                                        <span className="absolute bottom-0 left-0 w-full h-0.5 bg-golden transform scale-x-0 group-hover:scale-x-100 transition-transform duration-300 ease-out"/>
+                                        <span className="absolute bottom-0 left-0 w-full h-0.5 bg-white transform scale-x-0 group-hover:scale-x-100 transition-transform duration-300 ease-out"/>
                                     </Link>
                                 </li>
                             ))}
